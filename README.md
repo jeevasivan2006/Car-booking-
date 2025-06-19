@@ -1,4 +1,3 @@
-# Simple Ticket Booking Software
 
 class TicketBookingSystem:
     def __init__(self):
